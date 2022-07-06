@@ -15,11 +15,13 @@ body {
 .left-links {
   list-style: none;
   padding: 0;
+  display: flex;
 }
 
 .right-links {
   list-style: none;
   padding: 0;
+  display: flex;
 }
 
 img {
