@@ -13,12 +13,14 @@ body {
   background: darkmagenta;
   color: white;
   padding-inline: 16px;
+  display: flex;
 }
 
 .footer {
   height: 72px;
   background: #eee;
   color: darkmagenta;
+  display: flex;
 }
 
 .body {
