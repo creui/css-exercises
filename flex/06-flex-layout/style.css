@@ -27,6 +27,7 @@ body {
   flex-flow: column wrap;
   justify-content: center;
   align-items: center;
+  flex: 1;
 }
 
 .left-links {
