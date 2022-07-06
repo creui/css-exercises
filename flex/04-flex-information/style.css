@@ -30,3 +30,7 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+.text {
+  text-align: center;
+}
