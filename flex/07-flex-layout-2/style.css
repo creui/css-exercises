@@ -33,6 +33,8 @@ body {
 
 .content {
   padding: 32px;
+  display: flex;
+  flex-flow: row wrap;
 }
 
 .sidebar {
