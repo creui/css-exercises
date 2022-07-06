@@ -37,6 +37,10 @@ body {
   border-radius: 4px;
 }
 
+a {
+  text-decoration: none;
+}
+
 ul {
   list-style: none;
   padding: 0;
