@@ -15,18 +15,30 @@ img {
 
 .barberry {
   width: 200px;
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
 }
 
 .chili {
   width: 200px;
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
 }
 
 .pepper {
   width: 200px;
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
 }
 
 .saffron {
   width: 200px;
+  display: flex;
+  justify-content: center;
+  flex-flow: row wrap;
 }
 
 .title {
@@ -51,4 +63,5 @@ img {
 
 .text {
   text-align: center;
+  width: 200px;
 }
