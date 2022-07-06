@@ -14,10 +14,12 @@ body {
 
 .left-links {
   list-style: none;
+  padding: 0;
 }
 
 .right-links {
   list-style: none;
+  padding: 0;
 }
 
 img {
