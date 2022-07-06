@@ -11,6 +11,7 @@ img {
   display: flex;
   gap: 52px;
   justify-content: center;
+  align-items: flex-start;
 }
 
 .barberry {
@@ -63,5 +64,4 @@ img {
 
 .text {
   text-align: center;
-  width: 200px;
 }
