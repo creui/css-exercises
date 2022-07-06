@@ -16,6 +16,7 @@ body {
 }
 
 .modal {
+  gap: 16px;
   background: white;
   width: 480px;
   border-radius: 10px;
