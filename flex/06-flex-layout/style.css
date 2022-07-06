@@ -24,8 +24,9 @@ body {
 
 .content {
   display: flex;
-  flex-flow: row wrap;
+  flex-flow: column wrap;
   justify-content: center;
+  align-items: center;
 }
 
 .left-links {
