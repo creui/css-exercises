@@ -12,6 +12,7 @@ body {
   height: 72px;
   background: darkmagenta;
   color: white;
+  padding-inline: 16px;
 }
 
 .footer {
