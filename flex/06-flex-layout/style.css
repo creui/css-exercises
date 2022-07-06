@@ -12,6 +12,14 @@ body {
   justify-content: space-between;
 }
 
+.left-links {
+  list-style: none;
+}
+
+.right-links {
+  list-style: none;
+}
+
 img {
   width: 600px;
 }
