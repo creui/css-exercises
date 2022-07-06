@@ -24,6 +24,7 @@ body {
   display: flex;
   flex-flow: row wrap;
   width: 600px;
+  justify-content: center;
 }
 
 .left-links {
