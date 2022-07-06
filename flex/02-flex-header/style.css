@@ -36,6 +36,7 @@ ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
   padding: 0;
+  gap: 8px;
 }
 
 a {
