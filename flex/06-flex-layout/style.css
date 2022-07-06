@@ -15,13 +15,16 @@ body {
 .left-links {
   list-style: none;
   padding: 0;
+  flex: 1;
   display: flex;
 }
 
 .right-links {
   list-style: none;
   padding: 0;
+  flex: 1;
   display: flex;
+  justify-content: flex-end;
 }
 
 a {
