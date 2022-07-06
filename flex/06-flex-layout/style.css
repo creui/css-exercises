@@ -20,6 +20,10 @@ body {
   padding-inline: 16px;
 }
 
+.content {
+  display: flex;
+}
+
 .left-links {
   list-style: none;
   padding: 0;
