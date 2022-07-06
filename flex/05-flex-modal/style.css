@@ -43,6 +43,11 @@ body {
   justify-content: center;
 }
 
+.header {
+  font-weight: 700;
+  font-size: 16px;
+}
+
 .close-button {
   background: #eee;
   border-radius: 50%;
