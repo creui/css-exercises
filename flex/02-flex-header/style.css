@@ -20,11 +20,13 @@
 .left-links {
   flex: 1;
   display: flex;
+  justify-content: flex-start;
 }
 
 .right-links {
   flex: 1;
   display: flex;
+  justify-content: flex-end;
 }
 
 ul {
