@@ -19,10 +19,12 @@
 
 .left-links {
   flex: 1;
+  display: flex;
 }
 
 .right-links {
   flex: 1;
+  display: flex;
 }
 
 ul {
