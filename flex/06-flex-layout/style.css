@@ -24,6 +24,11 @@ body {
   display: flex;
 }
 
+a {
+  text-decoration: none;
+  color: #666;
+}
+
 img {
   width: 600px;
 }
