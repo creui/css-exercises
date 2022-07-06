@@ -10,6 +10,7 @@ img {
 .items {
   display: flex;
   gap: 52px;
+  justify-content: center;
 }
 
 .barberry {
