@@ -17,6 +17,7 @@ body {
   padding: 0;
   flex: 1;
   display: flex;
+  gap: 16px;
 }
 
 .right-links {
@@ -25,6 +26,7 @@ body {
   flex: 1;
   display: flex;
   justify-content: flex-end;
+  gap: 16px;
 }
 
 a {
